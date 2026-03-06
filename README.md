@@ -1,6 +1,6 @@
 #     Intellegent Schedule Builder
 
-This is a desktop tool I built to solve a specific variant of the "Nurse Scheduling Problem." It’s designed for helpdesk environments where you have a mix of early/late staff and need to fill specific phone and front desk slots without making the team miserable.
+This is a desktop tool built to solve a specific variant of the "Nurse Scheduling Problem." It’s designed for helpdesk environments where you have a mix of early/late staff and need to fill specific phone and front desk slots without making the team miserable.
 
 <p align="center">
   <picture>
